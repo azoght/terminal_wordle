@@ -13,3 +13,7 @@ Feel free to play as many times as you like, but be warned, your brain might jus
 Make sure you are in the directory of the module
 
 `python main.py`
+
+## Credits
+
+(most) words courtesy of the Hunspell Dictionary (CA)
